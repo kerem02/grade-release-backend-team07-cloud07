@@ -1,4 +1,4 @@
-# Grade Release System - team07 / cloud07
+# Grade Release System - team01 / cloud07
 
 University grade release backend for the Cloud Engineering AWS term project.
 
